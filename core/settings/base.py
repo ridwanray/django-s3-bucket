@@ -152,8 +152,8 @@ SPECTACULAR_SETTINGS = {
         "displayRequestDuration": True
     },
     'UPLOADED_FILES_USE_URL': True,
-    'TITLE': 'Blog API & S3 bucket',
-    'DESCRIPTION': 'Blog API& S3 bucket',
+    'TITLE': 'Blog API  S3 bucket',
+    'DESCRIPTION': 'Blog API S3 bucket',
     'VERSION': '1.0.0',
     'LICENCE': {'name': 'BSD License'},
     'CONTACT': {'name': 'Ridwan Ray', 'email': 'ridwanray.com'},
