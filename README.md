@@ -1,4 +1,4 @@
-# Django File Upload, Static and Media Files on AWS S3 buckets
+# Django and AWS S3 buckets for files management
 This is the codebase to setup Django application to use s3 bucket for:<br>
 * file upload
 * media files
