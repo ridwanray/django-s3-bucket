@@ -146,6 +146,10 @@ if STORAGE_DESTINATION == 's3':
     MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{PUBLIC_MEDIA_LOCATION}/'
     DEFAULT_FILE_STORAGE = 'core.storage_backends.PublicMediaStorage'
 
+    #pivate media
+    PRIVATE_MEDIA_LOCATION = 'private'
+    PRIVATE_FILE_STORAGE = 'core.storage_backends.PrivateMediaStorage'
+
 else:
     STATIC_URL = "static/"
     STATIC_ROOT = "static/"
