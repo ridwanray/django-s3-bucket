@@ -57,4 +57,6 @@ Run the server using:
 python manage.py runserver
 ```
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot1.webp)
+
+![Screenshot](screenshot2.webp)
