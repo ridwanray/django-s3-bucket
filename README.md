@@ -1,4 +1,7 @@
 # Django and AWS S3 buckets for files management
+
+[Complete Guide](https://medium.com/dev-genius/how-to-configure-a-django-application-with-s3-buckets-for-file-storage-9cea315316a4)
+
 This is the codebase to setup Django application to use s3 bucket for:<br>
 * file upload
 * media files
